@@ -1,0 +1,7 @@
+{
+  "name": "dragon",
+  "version": "0.0.1",
+  "devDependencies": {
+    "react": "~0.11.2",
+  }
+}
